@@ -1,0 +1,12 @@
+name: mylifepricer
+title: mylifepricer
+username: andrewang
+account: andrewang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12029102
+bundleId: 8633341
+url: https://andrewang.shinyapps.io/mylifepricer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
